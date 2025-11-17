@@ -7,7 +7,7 @@ eBay je spletna trgovina, kjer lahko ljudje kupujejo in prodajajo različne izde
 ### Prednosti eBaya
  -Ogromen globalni doseg
 
- -Akcije + “Buy It Now”
+ -Akcije 
 
  -Enostavno za začetnike
 
