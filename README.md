@@ -3,41 +3,41 @@
 
 
 ## Vsebina
- eBay je spletna trgovina, kjer lahko ljudje kupujejo in prodajajo različne izdelke. Objave na eBayu običajno vsebujejo slike izdelka, kratek opis, ceno in podatke o prodajalcu. Uporabniki lahko izbirajo med novimi in rabljenimi stvarmi ter primerjajo ponudbe različnih prodajalcev.
+eBay je spletna trgovina, kjer lahko ljudje kupujejo in prodajajo različne izdelke. Objave na eBayu običajno vsebujejo slike izdelka, kratek opis, ceno in podatke o prodajalcu. Uporabniki lahko izbirajo med novimi in rabljenimi stvarmi ter primerjajo ponudbe različnih prodajalcev.
 ### Prednosti eBaya
- Ogromen globalni doseg
+ -Ogromen globalni doseg
 
- Akcije + “Buy It Now”
+ -Akcije + “Buy It Now”
 
- Enostavno za začetnike
+ -Enostavno za začetnike
 
- Močan sistem povratnih ocen
+ -Močan sistem povratnih ocen
 
- Velika raznolikost izdelkov
+ -Velika raznolikost izdelkov
 
- Mobilna aplikacija
+ -Mobilna aplikacija
 
- Zaščita kupcev in prodajalcev
+ -Zaščita kupcev in prodajalcev
 
- AI in napredna orodja za prodajalce
+ -AI in napredna orodja za prodajalce
 
- Možnost prodaje rabljenih in obnovljenih izdelkov 
+ -Možnost prodaje rabljenih in obnovljenih izdelkov 
 
 ### Funkcije
- Dražbe
+ -Dražbe
 
- Takojšen nakup
+ -Takojšen nakup
 
- Ocene
+ -Ocene
 
- Filtri iskanja
+ -Filtri iskanja
 
- Favoriti
+ -Favoriti
 
- Sporočila
+ -Sporočila
 
  Pošiljanje
 
- Vračila
+ -Vračila
 
- Priporočila
+ -Priporočila
