@@ -2,9 +2,9 @@
 #E-bay
 
 
-##Vsebina
+## Vsebina
  eBay je spletna trgovina, kjer lahko ljudje kupujejo in prodajajo različne izdelke. Objave na eBayu običajno vsebujejo slike izdelka, kratek opis, ceno in podatke o prodajalcu. Uporabniki lahko izbirajo med novimi in rabljenimi stvarmi ter primerjajo ponudbe različnih prodajalcev.
-###Prednosti eBaya
+### Prednosti eBaya
  Ogromen globalni doseg
 
  Akcije + “Buy It Now”
@@ -23,7 +23,7 @@
 
  Možnost prodaje rabljenih in obnovljenih izdelkov 
 
-###Funkcije
+### Funkcije
  Dražbe
 
  Takojšen nakup
